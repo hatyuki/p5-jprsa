@@ -1,4 +1,4 @@
-jprsa
+JP RSA
 =====
 
-Test of RSA communication between Perl and JavaScript.
+Test of the RSA communication between Perl and JavaScript.
