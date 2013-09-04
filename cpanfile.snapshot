@@ -35,6 +35,12 @@ DISTRIBUTIONS
       Crypt::OpenSSL::Random 0.04
     requirements:
       ExtUtils::MakeMaker 0
+  Data-Section-Simple-0.05
+    pathname: M/MI/MIYAGAWA/Data-Section-Simple-0.05.tar.gz
+    provides:
+      Data::Section::Simple 0.05
+    requirements:
+      ExtUtils::MakeMaker 6.30
   Data-UUID-1.219
     pathname: R/RJ/RJBS/Data-UUID-1.219.tar.gz
     provides:

@@ -73,12 +73,12 @@ __DATA__
 
     <div class="container">
       <div class="page-header">
-        <h1>Test of the RSA Communication</h1>
+        <h1>RSA Communication</h1>
       </div>
 
       <section id="encryption">
         <h2>Encryption and Decryption</h2>
-        <p class="text-muted">Test of the RSA communication between Perl (Encryptor) and JavaScript (Decryptor).</p>
+        <p class="text-muted">Sample application of the RSA communication between Perl (Encryptor) and JavaScript (Decryptor).</p>
         <div class="row">
           <div class="col-lg-6 col-md-12">
             <h3>Cryptogram</h3>
