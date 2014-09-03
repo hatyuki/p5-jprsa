@@ -63,10 +63,10 @@ DISTRIBUTIONS
       Crypt::OpenSSL::Random 0.04
     requirements:
       ExtUtils::MakeMaker 0
-  Data-Section-Simple-0.05
-    pathname: M/MI/MIYAGAWA/Data-Section-Simple-0.05.tar.gz
+  Data-Section-Simple-0.07
+    pathname: M/MI/MIYAGAWA/Data-Section-Simple-0.07.tar.gz
     provides:
-      Data::Section::Simple 0.05
+      Data::Section::Simple 0.07
     requirements:
       ExtUtils::MakeMaker 6.30
   Data-UUID-1.219
@@ -135,10 +135,10 @@ DISTRIBUTIONS
       File::Spec 0.80
       Test::More 0.47
       perl 5.005
-  File-ShareDir-Install-0.05
-    pathname: G/GW/GWYN/File-ShareDir-Install-0.05.tar.gz
+  File-ShareDir-Install-0.09
+    pathname: G/GW/GWYN/File-ShareDir-Install-0.09.tar.gz
     provides:
-      File::ShareDir::Install 0.05
+      File::ShareDir::Install 0.09
     requirements:
       ExtUtils::MakeMaker 6.11
       File::Spec 0
@@ -387,12 +387,12 @@ DISTRIBUTIONS
       Test::Requires 0
       Test::SharedFork 0
       perl 5.008001
-  Plack-1.0029
-    pathname: M/MI/MIYAGAWA/Plack-1.0029.tar.gz
+  Plack-1.0031
+    pathname: M/MI/MIYAGAWA/Plack-1.0031.tar.gz
     provides:
       HTTP::Message::PSGI undef
       HTTP::Server::PSGI undef
-      Plack 1.0029
+      Plack 1.0031
       Plack::App::CGIBin undef
       Plack::App::Cascade undef
       Plack::App::Directory undef
@@ -451,9 +451,9 @@ DISTRIBUTIONS
       Plack::Middleware::XFramework undef
       Plack::Middleware::XSendfile undef
       Plack::Recursive::ForwardRequest undef
-      Plack::Request 1.0029
+      Plack::Request 1.0031
       Plack::Request::Upload undef
-      Plack::Response 1.0029
+      Plack::Response 1.0031
       Plack::Runner undef
       Plack::TempBuffer undef
       Plack::Test undef
@@ -468,9 +468,9 @@ DISTRIBUTIONS
       Apache::LogFormat::Compiler 0.12
       Devel::StackTrace 1.23
       Devel::StackTrace::AsHTML 0.11
-      ExtUtils::MakeMaker 6.30
+      ExtUtils::MakeMaker 0
       File::ShareDir 1.00
-      File::ShareDir::Install 0.03
+      File::ShareDir::Install 0.06
       Filesys::Notify::Simple 0
       HTTP::Body 1.06
       HTTP::Message 5.814
