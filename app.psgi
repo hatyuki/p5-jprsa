@@ -137,7 +137,7 @@ __DATA__
         <ul class="list-inline">
           <li><a href="http://getbootstrap.com">Bootstrap</a><li>
           <li><a href="http://travistidwell.com/jsencrypt">JSEncrypt</a></li>
-          <li><a href="https://github.com/hatyuki/jprsa"><i class="icon-github"></i></a><li>
+          <li><a href="https://github.com/hatyuki/p5-jprsa"><i class="icon-github"></i></a><li>
           <li><a href="http://fortawesome.github.io/Font-Awesome"><i class="icon-flag"></i></a><li>
           <li><i class="icon-html5"></i><li>
           <li><i class="icon-css3"></i><li>
@@ -195,7 +195,7 @@ __DATA__
         <ul class="list-inline">
           <li><a href="http://getbootstrap.com">Bootstrap</a><li>
           <li><a href="http://travistidwell.com/jsencrypt">JSEncrypt</a></li>
-          <li><a href="https://github.com/hatyuki/jprsa"><i class="icon-github"></i></a><li>
+          <li><a href="https://github.com/hatyuki/p5-jprsa"><i class="icon-github"></i></a><li>
           <li><a href="http://fortawesome.github.io/Font-Awesome"><i class="icon-flag"></i></a><li>
           <li><i class="icon-html5"></i><li>
           <li><i class="icon-css3"></i><li>
